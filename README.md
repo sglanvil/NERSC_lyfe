@@ -1,5 +1,8 @@
 # NERSC_lyfe
 
+https://docs.nersc.gov/jobs/
+https://docs.nersc.gov/jobs/examples/
+
 ```
 #!/bin/bash
 #SBATCH --nodes=<nnodes>
