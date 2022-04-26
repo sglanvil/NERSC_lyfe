@@ -4,6 +4,8 @@ https://docs.nersc.gov/jobs/
 
 https://docs.nersc.gov/jobs/examples/
 
+https://docs.nersc.gov/jobs/monitoring/
+
 ```
 #!/bin/bash
 #SBATCH --nodes=<nnodes>
