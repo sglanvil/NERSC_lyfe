@@ -20,3 +20,9 @@ srun -n <num_mpi_processes> -c <cpus_per_task> a.out
 ```
 $ sbatch first-job.sh
 ```
+
+```
+Case Directories
+/project/projectdirs/ccsm1/people/sglanvil/cases/e3smv1-le/e3smv1.20TR_CMIP6.ne30_oECv3_ICG.LE-v1.0365.004
+/project/projectdirs/ccsm1/people/sglanvil/cases/e3smv1-le/e3smv1.20TR_CMIP6.ne30_oECv3_ICG.LE-v1.0410.005
+```
