@@ -31,3 +31,8 @@ How to get ncdump on NERSC:
 module load cray-netcdf
 module load nco
 ````
+```
+cfsquota -u mp9
+
+```
+
