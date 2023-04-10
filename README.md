@@ -27,9 +27,15 @@ Case Directories
 /project/projectdirs/ccsm1/people/sglanvil/cases/e3smv1-le/e3smv1.20TR_CMIP6.ne30_oECv3_ICG.LE-v1.0410.005
 ```
 ````
-How to get ncdump on NERSC:
+How to get ncdump on NERSC Cori:
 module load cray-netcdf
 module load nco
+
+NERSC Perlmutter:
+module load e4s
+spack env active -V gcc
+spack load nco
+module load cudatoolkit/11.5
 ````
 ```
 cfsquota -u mp9
