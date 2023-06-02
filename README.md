@@ -33,7 +33,7 @@ module load nco
 
 NERSC Perlmutter:
 module load e4s
-spack env active -V gcc
+spack env activate -V gcc
 spack load nco
 module load cudatoolkit/11.5
 ````
